@@ -31,8 +31,9 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 1. Calcular la función de transferencia.
 2. Determinar el modelo de ecuaciones integro-diferenciales.
 3. Calcular el error en estado estacionario y la estabilidad en lazo abierto.
-4. Emular y simular la respuesta del circuito en Simulink/Simscape a la señal "Uniform Random Number" con la siguiente configuración: min = -0.2 V; max = 1 V; seed = 106; Sample time = 0.5.
-5. Sintonizar las ganancias de un controlador PID para eliminar el error entre la entrada y la salida del sistema normotenso-hipotenso y normotenso-hipertenso.
+4. Emular y simular la respuesta del circuito en Simulink/Simscape.
+5. Sintonizar las ganancias de un controlador PID para eliminar el error entre la entrada y la salida del sistema.
+   
 ## Descripción detallada del sistema
 
 La membrana de una neurona cortical puede representarse, desde el punto de vista eléctrico, como un sistema lineal equivalente que captura su capacidad para almacenar y disipar carga, así como la presencia de corrientes iónicas lentas responsables de la modulación de la excitabilidad. En este modelo, la membrana se aproxima mediante un circuito del tipo R–L–C, donde:
