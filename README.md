@@ -5,8 +5,11 @@ Modelado de Membrana Neuronal: Hiperexcitabilidad Epiléptica
 
 ## Información de los estudiantes
 María Fernanda Almazán Pacheco \[22211744]; l22211744@tectijuana.edu.mx
+
 María Fernanda Antúnez Rubio \[22211745]; l22211745@tectijuana.edu.mx
+
 Carlos Azael Ramírez Rodríguez \[22212267]; l22212267@tectijuana.edu.mx
+
 Karla Emilia Silva Perez \[22211767]; l22211767@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
