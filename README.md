@@ -43,6 +43,22 @@ La membrana de una neurona cortical puede representarse, desde el punto de vista
 
 -L se utiliza para aproximar el efecto de corrientes iónicas lentas (por ejemplo, corrientes de calcio o sodio persistente) que introducen una componente inercial en la respuesta eléctrica. Esta inductancia efectiva permite representar el retardo fisiológico con el que estos canales se activan o desactivan ante cambios en el voltaje.
 
+La epilepsia se caracteriza por un estado de hiperexcitabilidad neuronal, en el cual pequeñas entradas sinápticas son capaces de generar respuestas de gran amplitud o repetitivas. Esta condición puede modelarse como una alteración de los parámetros del circuito R–L–C.
+
+-Condición control (neurona sana): Los valores de R, L y C se encuentran dentro de rangos fisiológicos que aseguran un equilibrio adecuado entre excitación y amortiguamiento. Bajo un estímulo dado, el potencial de membrana responde con una dinámica amortiguada, generando una despolarización transitoria que retorna al reposo sin generar oscilaciones sostenidas.
+
+-Condición caso (neurona hiperexcitable / epiléptica):
+
+La hiperexcitabilidad puede representarse mediante:
+
+Disminución de R, lo que equivale a un incremento en la conductancia excitatoria o una reducción del efecto estabilizador de los canales de fuga.
+
+Reducción de C, lo que hace que la membrana cambie más rápidamente de voltaje ante una corriente entrante.
+
+Disminución del amortiguamiento asociado a L, lo cual permite que las corrientes lentas contribuyan a respuestas de mayor amplitud o incluso a oscilaciones subamortiguadas.
+
+En conjunto, estas modificaciones desplazan al sistema hacia un régimen en el que una misma entrada sináptica genera una respuesta mucho mayor o incluso autoamplificada, reproduciendo el comportamiento de una neurona hiperexcitable como la que se encuentra en un foco epiléptico.
+
 Palabras clave: Circuito RLC; Controlador PID; Sistema nervioso; Modelo matemático; Neurona.
 
 ## Lista de archivos incluidos en el repositorio
@@ -54,6 +70,9 @@ Palabras clave: Circuito RLC; Controlador PID; Sistema nervioso; Modelo matemát
 
 ## Referencias
 [1] P. A. Valle, Syllabus para Modelado de Sistemas Fisiológicos, Tecnológico Nacional de México / Instituto Tecnológico de Tijuana, Tijuana, B.C., México, 2025. Permalink: https://biomath.xyz/course/
+
 [2] M. C. Khoo, Physiological Control Systems Analysis Simulation, and Estimation, 2nd ed. Piscataway, New Jersey, USA: IEEE Press, 2018, Section 4, Page 93.
+
 [3] N. S. Nise, Control Systems Engineering, 8th ed. Hoboken, New Jersey, USA: John Wiley & Sons, 2020.
+
 [4] T. Kind, T. J. Faes, J. W. Lankhaar, A. Vonk-Noordegraaf 
