@@ -36,8 +36,11 @@ La asignatura de Modelado de Sistemas Fisiológicos forma parte del plan de estu
 ## Descripción detallada del sistema
 
 La membrana de una neurona cortical puede representarse, desde el punto de vista eléctrico, como un sistema lineal equivalente que captura su capacidad para almacenar y disipar carga, así como la presencia de corrientes iónicas lentas responsables de la modulación de la excitabilidad. En este modelo, la membrana se aproxima mediante un circuito del tipo R–L–C, donde:
+
 -C corresponde a la capacitancia de la membrana, que refleja la capacidad del bilípido para acumular carga y determinar la velocidad a la que el voltaje de membrana responde a una corriente entrante.
+
 -R representa la conductancia pasiva o de fuga, que modela el flujo de iones a través de canales de fuga abiertos en reposo. Esta resistencia actúa como una fuerza de amortiguamiento que tiende a llevar el potencial de membrana hacia el potencial de reposo.
+
 -L se utiliza para aproximar el efecto de corrientes iónicas lentas (por ejemplo, corrientes de calcio o sodio persistente) que introducen una componente inercial en la respuesta eléctrica. Esta inductancia efectiva permite representar el retardo fisiológico con el que estos canales se activan o desactivan ante cambios en el voltaje.
 
 Palabras clave: Circuito RLC; Controlador PID; Sistema nervioso; Modelo matemático; Neurona.
