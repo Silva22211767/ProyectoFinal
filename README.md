@@ -51,11 +51,11 @@ La epilepsia se caracteriza por un estado de hiperexcitabilidad neuronal, en el 
 
 La hiperexcitabilidad puede representarse mediante:
 
-Disminución de R, lo que equivale a un incremento en la conductancia excitatoria o una reducción del efecto estabilizador de los canales de fuga.
+  -Disminución de R, lo que equivale a un incremento en la conductancia excitatoria o una reducción del efecto estabilizador de los canales de fuga.
 
-Reducción de C, lo que hace que la membrana cambie más rápidamente de voltaje ante una corriente entrante.
+  -Reducción de C, lo que hace que la membrana cambie más rápidamente de voltaje ante una corriente entrante.
 
-Disminución del amortiguamiento asociado a L, lo cual permite que las corrientes lentas contribuyan a respuestas de mayor amplitud o incluso a oscilaciones subamortiguadas.
+  -Disminución del amortiguamiento asociado a L, lo cual permite que las corrientes lentas contribuyan a respuestas de mayor amplitud o incluso a oscilaciones subamortiguadas.
 
 En conjunto, estas modificaciones desplazan al sistema hacia un régimen en el que una misma entrada sináptica genera una respuesta mucho mayor o incluso autoamplificada, reproduciendo el comportamiento de una neurona hiperexcitable como la que se encuentra en un foco epiléptico.
 
