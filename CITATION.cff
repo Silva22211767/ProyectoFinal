@@ -2,21 +2,21 @@
 # Visit https://bit.ly/cffinit to generate yours today!
 
 cff-version: 1.2.0
-title: MATLAB;SPYDER
-message: lenguaje m; python
+title: MATLAB
+message: lenguaje m
 type: software
 authors:
   - given-names: Karla Emilia
     family-names: Silva Perez
     email: l22211767@tectijuana.edu.mx
     affiliation: TecNM-ITT
-repository-code: 'https://github.com/Silva22211767/Practica4MSF'
+repository-code: 'https://github.com/Silva22211767/ProyectoFinal'
 keywords:
   - Circuito RLC
   - Controlador PID
-  - Sistema cardiovascular
+  - Sistema nervioso
   - Modelo matemático
-  - Simulaciones numéricas
+  - Neurona
 license: BSD-2-Clause
 version: '1.0'
 date-released: '2025-09-19'
